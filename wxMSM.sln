@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "wxMSW_wxbase30u_vc100", "wxMSW_wxbase30u_vc100.vdproj", "{53D1CAF8-C134-404B-80E7-1DCF74B56EC8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "wxMSW_wxbase30u_vc100_x64", "wxMSW_wxbase30u_vc100_x64.vdproj", "{D1EFE60D-D0C1-4824-839A-52128FBEAF25}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "wxMSW_wxbase30ud_vc100", "wxMSW_wxbase30ud_vc100.vdproj", "{36BD384D-FB91-4C64-81F2-9E5F4D08ED61}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "wxMSW_wxbase30ud_vc100_x64", "wxMSW_wxbase30ud_vc100_x64.vdproj", "{C6D8E006-4F6B-487E-9A1C-4D6836127E48}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "wxMSW_wxmsw30u_core_vc100", "wxMSW_wxmsw30u_core_vc100.vdproj", "{C0AD63D1-CB35-452F-9BB0-D9812124194E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "wxMSW_wxmsw30u_core_vc100_x64", "wxMSW_wxmsw30u_core_vc100_x64.vdproj", "{10C46AAD-ECD4-4DAF-B582-3AA1DA4443FC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "wxMSW_wxmsw30ud_core_vc100", "wxMSW_wxmsw30ud_core_vc100.vdproj", "{A38E6692-32A8-4A3A-81DD-488FFF6B6ED3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "wxMSW_wxmsw30ud_core_vc100_x64", "wxMSW_wxmsw30ud_core_vc100_x64.vdproj", "{07777F45-304F-4DAC-8AD6-418ACC81FB89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D1CAF8-C134-404B-80E7-1DCF74B56EC8}.Debug|Default.ActiveCfg = Release
+		{53D1CAF8-C134-404B-80E7-1DCF74B56EC8}.Release|Default.ActiveCfg = Release
+		{53D1CAF8-C134-404B-80E7-1DCF74B56EC8}.Release|Default.Build.0 = Release
+		{D1EFE60D-D0C1-4824-839A-52128FBEAF25}.Debug|Default.ActiveCfg = Release
+		{D1EFE60D-D0C1-4824-839A-52128FBEAF25}.Release|Default.ActiveCfg = Release
+		{D1EFE60D-D0C1-4824-839A-52128FBEAF25}.Release|Default.Build.0 = Release
+		{36BD384D-FB91-4C64-81F2-9E5F4D08ED61}.Debug|Default.ActiveCfg = Debug
+		{36BD384D-FB91-4C64-81F2-9E5F4D08ED61}.Debug|Default.Build.0 = Debug
+		{36BD384D-FB91-4C64-81F2-9E5F4D08ED61}.Release|Default.ActiveCfg = Debug
+		{C6D8E006-4F6B-487E-9A1C-4D6836127E48}.Debug|Default.ActiveCfg = Debug
+		{C6D8E006-4F6B-487E-9A1C-4D6836127E48}.Debug|Default.Build.0 = Debug
+		{C6D8E006-4F6B-487E-9A1C-4D6836127E48}.Release|Default.ActiveCfg = Debug
+		{C0AD63D1-CB35-452F-9BB0-D9812124194E}.Debug|Default.ActiveCfg = Release
+		{C0AD63D1-CB35-452F-9BB0-D9812124194E}.Release|Default.ActiveCfg = Release
+		{C0AD63D1-CB35-452F-9BB0-D9812124194E}.Release|Default.Build.0 = Release
+		{10C46AAD-ECD4-4DAF-B582-3AA1DA4443FC}.Debug|Default.ActiveCfg = Release
+		{10C46AAD-ECD4-4DAF-B582-3AA1DA4443FC}.Release|Default.ActiveCfg = Release
+		{10C46AAD-ECD4-4DAF-B582-3AA1DA4443FC}.Release|Default.Build.0 = Release
+		{A38E6692-32A8-4A3A-81DD-488FFF6B6ED3}.Debug|Default.ActiveCfg = Debug
+		{A38E6692-32A8-4A3A-81DD-488FFF6B6ED3}.Debug|Default.Build.0 = Debug
+		{A38E6692-32A8-4A3A-81DD-488FFF6B6ED3}.Release|Default.ActiveCfg = Debug
+		{07777F45-304F-4DAC-8AD6-418ACC81FB89}.Debug|Default.ActiveCfg = Debug
+		{07777F45-304F-4DAC-8AD6-418ACC81FB89}.Debug|Default.Build.0 = Debug
+		{07777F45-304F-4DAC-8AD6-418ACC81FB89}.Release|Default.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
