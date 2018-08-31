@@ -27,7 +27,7 @@
         "DisplayName" = "8:Release"
         "IsDebugOnly" = "11:FALSE"
         "IsReleaseOnly" = "11:TRUE"
-        "OutputFilename" = "8:wxMSW_wxbase30u_net_vc100_x64\\wxMSW_wxbase30u_net_vc100_x64.msm"
+        "OutputFilename" = "8:build\\wxMSW_wxbase30u_net_vc100_x64\\wxMSW_wxbase30u_net_vc100_x64.msm"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"

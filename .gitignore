@@ -1,4 +1,5 @@
 /*.suo
+/build
 /wxbase*_net_vc*.dll
 /wxbase*_net_vc*_x64.dll
 /wxbase*_vc*.dll
@@ -11,15 +12,3 @@
 /wxmsw*_aui_vc*_x64.dll
 /wxmsw*_core_vc*.dll
 /wxmsw*_core_vc*_x64.dll
-/wxMSW_wxbase*_net_vc*
-/wxMSW_wxbase*_net_vc*_x64
-/wxMSW_wxbase*_vc*
-/wxMSW_wxbase*_vc*_x64
-/wxMSW_wxbase*_xml_vc*
-/wxMSW_wxbase*_xml_vc*_x64
-/wxMSW_wxmsw*_adv_vc*
-/wxMSW_wxmsw*_adv_vc*_x64
-/wxMSW_wxmsw*_aui_vc*
-/wxMSW_wxmsw*_aui_vc*_x64
-/wxMSW_wxmsw*_core_vc*
-/wxMSW_wxmsw*_core_vc*_x64
